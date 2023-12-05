@@ -1,0 +1,9 @@
+[package]
+name = "aoc2023"
+version.workspace = true
+authors.workspace = true
+edition = "2021"
+
+[[bin]]
+name = "advent1"
+path = "src/advent1/main.rs"
