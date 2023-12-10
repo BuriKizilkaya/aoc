@@ -12,3 +12,6 @@ path = "src/advent1/main.rs"
 name = "advent2"
 path = "src/advent2/main.rs"
 
+[[bin]]
+name = "advent3"
+path = "src/advent3/main.rs"
